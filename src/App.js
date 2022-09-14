@@ -1,11 +1,13 @@
 import React from 'react';
-import Calculator from './components/Calculator';
+import { Outlet } from 'react-router-dom';
+import HomeScreen from './pages/HomeScreen';
 
 function App() {
   return (
-    <div>
-      <Calculator />
-    </div>
+    <>
+      <HomeScreen />
+      <Outlet />
+    </>
   );
 }
 
