@@ -15,9 +15,9 @@
 - CSS3 ( Flexbox, Grid, Box-Model)
 
 
-## Live Demo (if available)
+## Live Demo 
 
-[**Comming Soon... 🚀**]()
+[**math-magicians 🚀**](https://calm-faun-f47256.netlify.app/)
 
 
 ## Video Demonstration
