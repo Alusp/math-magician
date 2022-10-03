@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test NavigationBar Testing NavigationBar 1`] = `
+<div
+  className="py-6 px-16 shadow-lg flex justify-between"
+>
+  <a
+    className="text-3xl font-semibold text-orange-500"
+    href="/"
+    onClick={[Function]}
+  >
+    Math Magician
+  </a>
+  <div
+    className="flex"
+  >
+    <a
+      className="mx-6 hover:text-orange-500 text-xl"
+      exact={true}
+      href="/"
+      onClick={[Function]}
+    >
+      Home
+    </a>
+    <a
+      className="mx-6 hover:text-orange-500 text-xl"
+      exact={true}
+      href="/calculator"
+      onClick={[Function]}
+    >
+      Calculator
+    </a>
+    <a
+      className="ml-6 hover:text-orange-500 text-xl"
+      exact={true}
+      href="/quote"
+      onClick={[Function]}
+    >
+      Quotes
+    </a>
+  </div>
+</div>
+`;

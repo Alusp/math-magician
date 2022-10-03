@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test QoutesScreen Testing QoutesScreen 1`] = `
+<div
+  className="container mx-auto py-32 flex justify-center items-center"
+>
+  <p
+    className="text-3xl"
+  >
+    Mathematics is not about numbers, equations computations
+    <br />
+    or algorithms: it is about understanding.
+    <span
+      className="font-semibold"
+    >
+       -William Shakespare
+    </span>
+  </p>
+</div>
+`;
