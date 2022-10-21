@@ -17,17 +17,7 @@
 
 ## Live Demo 
 
-[**math-magicians 🚀**](https://calm-faun-f47256.netlify.app/)
-
-
-## Video Demonstration
-
-[** To be added Soon 😄 **]()
-
-## Screenshots 
-
-[**Comming Soon... 🚀**]()
-
+[**math-magicians 🚀**](https://math-magical.netlify.app/)
 
 ## Getting Started
 
