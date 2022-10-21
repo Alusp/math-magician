@@ -1,9 +1,9 @@
 import React from 'react';
-import { BrowserRouter as Router, Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 function NavigationBar() {
   return (
-    <Router>
+    <>
       <div className="py-6 px-16 shadow-lg flex justify-between">
         <Link to="/" className="text-3xl font-semibold text-orange-500">
           Math Magician
@@ -20,7 +20,7 @@ function NavigationBar() {
           </Link>
         </div>
       </div>
-    </Router>
+    </>
   );
 }
 
