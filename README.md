@@ -5,6 +5,9 @@
 - Make simple calculations.
 - Read a random math-related quote. 
 
+![Maths](https://user-images.githubusercontent.com/43528594/214195390-b13066e2-6e8a-48b7-ad0a-18192ffe38c2.png)
+
+
 
 ## Built With
 - React Redux
